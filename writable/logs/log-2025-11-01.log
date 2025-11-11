@@ -1,0 +1,271 @@
+CRITICAL - 2025-11-01 13:29:11 --> Error: Class "CI_Model" not found
+[Method: GET, Route: hello/hello_2310010190]
+in APPPATH\Models\HelloModel.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\CIPPAAA\\app\\Models\\HelloModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\HelloModel')
+ 4 APPPATH\Controllers\Hello.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\HelloModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Hello->hello_2310010190()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-01 13:29:19 --> Error: Class "CI_Model" not found
+[Method: GET, Route: hello/hello_2310010190]
+in APPPATH\Models\HelloModel.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\CIPPAAA\\app\\Models\\HelloModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\HelloModel')
+ 4 APPPATH\Controllers\Hello.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\HelloModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Hello->hello_2310010190()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-01 13:29:20 --> Error: Class "CI_Model" not found
+[Method: GET, Route: hello/hello_2310010190]
+in APPPATH\Models\HelloModel.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\CIPPAAA\\app\\Models\\HelloModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\HelloModel')
+ 4 APPPATH\Controllers\Hello.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\HelloModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Hello->hello_2310010190()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-01 13:29:21 --> Error: Class "CI_Model" not found
+[Method: GET, Route: hello/hello_2310010190]
+in APPPATH\Models\HelloModel.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\CIPPAAA\\app\\Models\\HelloModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\HelloModel')
+ 4 APPPATH\Controllers\Hello.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\HelloModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Hello->hello_2310010190()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-01 13:30:56 --> Error: Class "CI_Model" not found
+[Method: GET, Route: hello/hello_2310010190]
+in APPPATH\Models\HelloModel.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\CIPPAAA\\app\\Models\\HelloModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\HelloModel')
+ 4 APPPATH\Controllers\Hello.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\HelloModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Hello->hello_2310010190()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-01 13:32:58 --> Error: Class "CI_Model" not found
+[Method: GET, Route: hello/hello_2310010190]
+in APPPATH\Models\HelloModel.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\CIPPAAA\\app\\Models\\HelloModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\HelloModel')
+ 4 APPPATH\Controllers\Hello.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\HelloModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Hello->hello_2310010190()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-01 13:33:59 --> Error: Class "CI_Model" not found
+[Method: GET, Route: hello/hello_2310010190]
+in APPPATH\Models\HelloModel.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\CIPPAAA\\app\\Models\\HelloModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\HelloModel')
+ 4 APPPATH\Controllers\Hello.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\HelloModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Hello->hello_2310010190()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-01 13:34:00 --> Error: Class "CI_Model" not found
+[Method: GET, Route: hello/hello_2310010190]
+in APPPATH\Models\HelloModel.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\CIPPAAA\\app\\Models\\HelloModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\HelloModel')
+ 4 APPPATH\Controllers\Hello.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\HelloModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Hello->hello_2310010190()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-01 13:34:00 --> Error: Class "CI_Model" not found
+[Method: GET, Route: hello/hello_2310010190]
+in APPPATH\Models\HelloModel.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\CIPPAAA\\app\\Models\\HelloModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\HelloModel')
+ 4 APPPATH\Controllers\Hello.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\HelloModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Hello->hello_2310010190()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-01 13:34:00 --> Error: Class "CI_Model" not found
+[Method: GET, Route: hello/hello_2310010190]
+in APPPATH\Models\HelloModel.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\CIPPAAA\\app\\Models\\HelloModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\HelloModel')
+ 4 APPPATH\Controllers\Hello.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\HelloModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Hello->hello_2310010190()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-01 13:34:01 --> Error: Class "CI_Model" not found
+[Method: GET, Route: hello/hello_2310010190]
+in APPPATH\Models\HelloModel.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\CIPPAAA\\app\\Models\\HelloModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\HelloModel')
+ 4 APPPATH\Controllers\Hello.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\HelloModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Hello->hello_2310010190()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-01 13:34:01 --> Error: Class "CI_Model" not found
+[Method: GET, Route: hello/hello_2310010190]
+in APPPATH\Models\HelloModel.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\CIPPAAA\\app\\Models\\HelloModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\HelloModel')
+ 4 APPPATH\Controllers\Hello.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\HelloModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Hello->hello_2310010190()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-01 13:34:30 --> Error: Class "CI_Model" not found
+[Method: GET, Route: hello/hello_2310010190]
+in APPPATH\Models\HelloModel.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\CIPPAAA\\app\\Models\\HelloModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\HelloModel')
+ 4 APPPATH\Controllers\Hello.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\HelloModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Hello->hello_2310010190()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-01 13:34:31 --> Error: Class "CI_Model" not found
+[Method: GET, Route: hello/hello_2310010190]
+in APPPATH\Models\HelloModel.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\CIPPAAA\\app\\Models\\HelloModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\HelloModel')
+ 4 APPPATH\Controllers\Hello.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\HelloModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Hello->hello_2310010190()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-01 13:34:31 --> Error: Class "CI_Model" not found
+[Method: GET, Route: hello/hello_2310010190]
+in APPPATH\Models\HelloModel.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\CIPPAAA\\app\\Models\\HelloModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\HelloModel')
+ 4 APPPATH\Controllers\Hello.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\HelloModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Hello->hello_2310010190()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-01 13:34:32 --> Error: Class "CI_Model" not found
+[Method: GET, Route: hello/hello_2310010190]
+in APPPATH\Models\HelloModel.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\CIPPAAA\\app\\Models\\HelloModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\HelloModel')
+ 4 APPPATH\Controllers\Hello.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\HelloModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Hello->hello_2310010190()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-01 13:34:32 --> Error: Class "CI_Model" not found
+[Method: GET, Route: hello/hello_2310010190]
+in APPPATH\Models\HelloModel.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\CIPPAAA\\app\\Models\\HelloModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\HelloModel')
+ 4 APPPATH\Controllers\Hello.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\HelloModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Hello->hello_2310010190()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-01 13:34:33 --> Error: Class "CI_Model" not found
+[Method: GET, Route: hello/hello_2310010190]
+in APPPATH\Models\HelloModel.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\CIPPAAA\\app\\Models\\HelloModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\HelloModel')
+ 4 APPPATH\Controllers\Hello.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\HelloModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Hello->hello_2310010190()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-01 13:34:43 --> Error: Class "CI_Model" not found
+[Method: GET, Route: hello/hello_2310010190]
+in APPPATH\Models\HelloModel.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(315): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\CIPPAAA\\app\\Models\\HelloModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\HelloModel')
+ 4 APPPATH\Controllers\Hello.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\HelloModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Hello->hello_2310010190()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hello))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-01 13:46:56 --> ErrorException: Namespace declaration statement has to be the very first statement or after any declare call in the script
+[Method: GET, Route: hello/hello_mvc]
+in APPPATH\Models\HelloModel.php on line 14.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-11-01 13:47:31 --> ErrorException: Namespace declaration statement has to be the very first statement or after any declare call in the script
+[Method: GET, Route: hello/hello_mvc]
+in APPPATH\Models\HelloModel.php on line 14.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-11-01 13:47:32 --> ErrorException: Namespace declaration statement has to be the very first statement or after any declare call in the script
+[Method: GET, Route: hello/hello_mvc]
+in APPPATH\Models\HelloModel.php on line 14.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-11-01 13:47:58 --> ErrorException: Namespace declaration statement has to be the very first statement or after any declare call in the script
+[Method: GET, Route: hello/hello_mvc]
+in APPPATH\Models\HelloModel.php on line 14.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-11-01 13:47:59 --> ErrorException: Namespace declaration statement has to be the very first statement or after any declare call in the script
+[Method: GET, Route: hello/hello_mvc]
+in APPPATH\Models\HelloModel.php on line 14.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-11-01 13:48:39 --> ErrorException: Namespace declaration statement has to be the very first statement or after any declare call in the script
+[Method: GET, Route: hello/hello_mvc]
+in APPPATH\Models\HelloModel.php on line 14.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
